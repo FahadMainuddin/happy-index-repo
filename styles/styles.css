@@ -1,26 +1,98 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    font-family: 'merriweather', serif;
-    font-family:  'open sans',sans-serif;
 
+
+.new{
+
+    text-align: center;
+    margin: auto;
+    color: #FFF;
+    padding: 177px,383px,530px,531px;
+    padding-top: 177; 
+    margin: 10px;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin: auto;
+    
 }
-.container{
-    max-width: 1320px;
-    width: 100%;
-    margin:auto ;
+.head{
+    text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+width: 632px;
+margin: auto;
+color: #FFF;
+
+
 }
 .header{
-    width: 100%;
-    background-image: url(Banner\ Image.png)
+    
+    background-image:  url('Banner\ Image.png');
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+background-repeat: no-repeat;
+background-position: center 50%50%;
+border-radius: 16px;
+padding: 50px,120px,140px,140px;
+margin-left: 6%;
+background: linear-gradient(180deg, #070211 0%, white rgba(27, 15, 15, 0) 100% #070211, #07021100);
+width: 100%
+backgroundp
+
+
+
+
+
+border: 15px;
+background-origin: content-box;
 
 
 }
-.class{
-    background-color: #fff;
-    width: 1600px;
-    height: 733pxs;
+.category h1{
+    text-align: center;
+    color: #F00;
+
+
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+height: 48px;
+
 }
+.category p{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 28px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+line-height: 10px;
+}
+.category h3{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.happy vector{}
+
+
+
+
+                
+
